@@ -39,3 +39,55 @@ The National Film Awards are presented and categorised in three sections- Featur
 
 
 #### The National Film Awards Are Presented By <font color="red">**The President Of India**</font> And Happen To Be The Highest Honours In Indian Cinema.
+
+    
+    ---
+<a name = Section2></a>
+# 2. Problem Statement
+---
+
+**A list of rules is presented yearly in a document of regulations which is called the National Film Award Regulations.
+The awards aim at encouraging the making of films of aesthetic and technical excellence. The films are also encouraged to have social relevance, which may aid in the understanding and appreciation of cultures of different regions of the country in cinematic form. The films made in the country must abide by the unity and integrity of the nation.** 
+
+
+##### Through EDA on **The National Film Awards** we try to explore the following facts: 
+- Q1. Top 10 award winning films that had won the highest number of award between 2015 - 2019
+- Q2. How many awards given in each season between 2015 - 2019
+- Q3. Top 10 awards winning directors that had won the highest number of awards between 2015 - 2019
+- Q4. Top 10 awards winning producers that had won the highest number of awards between 2015 - 2019
+- Q5. Top 5 awards winning directors & their season wise performance between 2015 - 2019
+- Q6. What was Season wise, category wise awards distribution between 2015 - 2019
+- Q7. Top 10 awards wining film's language and their % share between 2015 - 2019
+- Q8. Top 10 Hindi films under feature film category that had won the highest number of award between 2015 - 2019
+- Q9. Top 10 Hindi films under non-feature film category that had won the highest number of award between 2015 - 2019 
+- Q10. Top 10 pair of producer & director that had won the highest number of award between 2015 - 2019
+
+
+- Apart that, We will also try to explore that how much **The National Film Awards** are able to achive its **objectives** which are:
+ - Encourage to <font color="red">**social awareness**</font> by promoting the social relevance subjected films.
+ - To make the people of india <font color="red">**understand & appreciate the cultures**</font> of different regions of our country through films.
+ - To Promote The <font color="red">**unity and integrity of the nation**</font> through films made by country's film industry.
+
+<a name = Section3></a>
+---
+# 3. Installing & Importing Liberaries
+---
+
+---
+<a name = Section31></a>
+### **3.1 Installing Libraries**
+---
+    
+# A package that is required by pandas-profiling library
+!pip install -q datascience
+
+# A library to generate basic statistics about data
+!pip install -q pandas-profiling                                    
+!pip install matplotlib
+!pip install numpy
+!pip install pandas
+!pip install pandas-profiling[notebook]
+!jupyter nbextension enable --py widgetsnbextension
+!pip install plotly
+!pip install seaborn    
+    
