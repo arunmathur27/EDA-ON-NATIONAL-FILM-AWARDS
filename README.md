@@ -78,10 +78,8 @@ The awards aim at encouraging the making of films of aesthetic and technical exc
 ### **3.1 Installing Libraries**
 ---
     
-# A package that is required by pandas-profiling library
 !pip install -q datascience
 
-# A library to generate basic statistics about data
 !pip install -q pandas-profiling                                    
 !pip install matplotlib
 !pip install numpy
@@ -91,3 +89,25 @@ The awards aim at encouraging the making of films of aesthetic and technical exc
 !pip install plotly
 !pip install seaborn    
     
+
+    
+    
+    
+- The dataset consists of information about the National Film Awards(MIB).
+
+| Records | Features | Dataset Size |
+| :--: | :--: | :--: |
+| 309 | 8 | 41.0 KB | 
+
+<br>
+
+| # | Feature Name | Feature Description |
+|:--:|:--|:--| 
+|1| Sr. No.  | A numeric serial number |
+|2| Year     | Year in which award was given |
+|3| CATEGORY |	Name of Category in which the awards was given |
+|4| TITLE    |	Name of Files to which the award was given |
+|5| DIRECTOR |	Name of Director of the film |
+|6| PRODUCER |	Name of Producer of the film |
+|7| LANGUAGE |	Language in which the file was made |
+|8| AWARDS   |	Name of award given to the film |    
