@@ -34,11 +34,8 @@ Instituted as State Awards for Films, which over the years known as National Fil
 
 National Film Awards were first awarded 10th October, 1954. <font color="red">**The Government of India**</font> wished to honour the excellence in Indian Cinema on a national scale. It was in 1973 when the Directorate of Film Festivals started administering the ceremony along with other major events in the country. 
 
-![image.png](attachment:image.png)
 
 The National Film Awards are presented and categorised in three sections- Feature Films, Non-Feature Films and Best Writing on Cinema. The jury is appointed by the Directorate of Film Festivals in India without any influence from the Government too on awards.
-
-![image-2.png](attachment:image-2.png)
 
 
 #### The National Film Awards Are Presented By <font color="red">**The President Of India**</font> And Happen To Be The Highest Honours In Indian Cinema.
